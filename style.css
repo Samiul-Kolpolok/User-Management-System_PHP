@@ -1,0 +1,8 @@
+.error{
+    color: blue;
+}
+
+.card-body, .card {
+    border:10px;
+    border-radius:25px!important;
+}
